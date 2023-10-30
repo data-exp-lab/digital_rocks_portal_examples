@@ -1,0 +1,9 @@
+napari
+pyQT5
+yt
+h5py
+pooch
+numpy
+matplotlib
+jupyterlab
+napari-simpleitk-image-processing
